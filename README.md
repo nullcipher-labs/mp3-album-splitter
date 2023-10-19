@@ -6,3 +6,8 @@ If you can download such a vid and convert it into a single mp3, and you have a 
 
 You can find an example config text file here, as well as the python code.
 See instructions pdf for how to use.
+
+# prerequisites
+pydub<br>https://pypi.org/project/pydub/<br>pip install pydub
+<br><br>
+mutagen<br>https://pypi.org/project/mutagen/<br>pip install mutagen
